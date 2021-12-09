@@ -34,7 +34,7 @@ npm start
 ### Github Pages Depolyment
 Edit the `homepage` and `deploy` fields in `package.json` changing 
 ```
-"homepage": "https://zldrobit.github.io/tfjs-yolov5-example",
+"homepage": "https://aukerul-shuvo.github.io/tfjs-yolov5-example",
 ``` 
 to 
 ```
