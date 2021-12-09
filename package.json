@@ -2,7 +2,7 @@
   "name": "testyolo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aukerul-shuvo.github.io/YOLOv5_TensorFlow-JS",
+  "homepage": "https://Aukerul-Shuvo.github.io/YOLOv5_TensorFlow-JS",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@tensorflow/tfjs": "3.9.0",
@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build --repo git@github.com:aukerul-shuvo.github.io/YOLOv5_TensorFlow-JS.git"
+    "deploy": "gh-pages -d build --repo git@github.com:Aukerul-Shuvo.github.io/YOLOv5_TensorFlow-JS.git"
   },
   "eslintConfig": {
     "extends": [
