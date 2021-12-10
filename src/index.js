@@ -8,8 +8,6 @@ const tf = require('@tensorflow/tfjs');
 
  const weights = 'web_model/model.json';
 
-  //'C:/Users/hasan/Downloads/bs 23 workshop/supershop/yolov5/yolov5s_saved_model/keras_metadata.pb');
-//'C:/Users/hasan/Downloads/bs 23 workshop/ss/tfj/public/web_model/model.json';
 
 const names = ['person', 'bicycle', 'car', 'motorcycle', 'airplane', 'bus', 'train', 'truck', 'boat', 'traffic light',
                'fire hydrant', 'stop sign', 'parking meter', 'bench', 'bird', 'cat', 'dog', 'horse', 'sheep', 'cow',
